@@ -1,0 +1,23 @@
+html, body {
+    font-family: 'Heebo', sans-serif;
+}
+
+
+.blog-item h3 {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    color:rgb(0, 8, 8);
+
+}
+
+
+
+.blog-item .date {
+color: rgb(0, 0, 0);
+}
+
+.blog-item .express {
+    color:rgb(168, 166, 166) ;
+}
+       
