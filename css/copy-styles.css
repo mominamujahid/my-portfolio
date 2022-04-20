@@ -1,0 +1,70 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Heebo', sans-serif;
+    background-color: rgba(181, 139, 139, 0.283);
+}
+
+
+.blog-item h3 {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    color:rgb(0, 8, 8);
+
+}
+
+
+
+.blog-item .date {
+color: rgb(0, 0, 0);
+}
+
+.blog-item .express {
+    color:rgb(168, 166, 166) ;
+}
+       
+#clickity
+{ background-color: rgb(243, 202, 22);
+     margin: 10px; 
+     border: 1px solid red;
+     padding : 10px ;
+
+}
+
+hr {
+    border: 1px solid;
+}
+
+.card {
+    
+    background-color: rgb(255, 161, 161);
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 30px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    border-radius: 8px ;
+
+}
+
+.card .card-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+
+}
+
+.card .card-body div:nth-child(1) {
+font-weight: bold ;
+
+}
+
+.card .card-body div:nth-child(2) , .card .card-body div:nth-child(3)  {
+    color: rgb(16, 89, 89) ;
+    
+    }
+
+    
+         
+
+
